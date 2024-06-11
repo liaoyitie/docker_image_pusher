@@ -1,2 +1,6 @@
-alpine
 mysql:8.0.31
+redis:latest
+nacos/nacos-server:v2.2.2
+nginx:latest
+wurstmeister/kafka
+wurstmeister/zookeeper
