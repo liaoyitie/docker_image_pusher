@@ -8,3 +8,6 @@ powerjob/powerjob-server:latest
 emqx/emqx:5.6.0
 mongo:latest
 portainer/portainer:latest
+openjdk:17-jdk-alpine
+openjdk:17-jdk-slim
+openjdk:17
