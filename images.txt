@@ -4,3 +4,7 @@ nacos/nacos-server:v2.2.2
 nginx:latest
 wurstmeister/kafka
 wurstmeister/zookeeper
+powerjob/powerjob-server:latest
+emqx/emqx:5.6.0
+mongo:latest
+portainer/portainer:latest
