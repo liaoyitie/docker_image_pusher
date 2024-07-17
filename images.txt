@@ -12,3 +12,4 @@ openjdk:17-jdk-alpine
 openjdk:17-jdk-slim
 openjdk:17
 gitlab/gitlab-ce:15.5.9-ce.0
+nats:latest
